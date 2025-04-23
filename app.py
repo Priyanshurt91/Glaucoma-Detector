@@ -8,7 +8,7 @@ from transformers import AutoImageProcessor, Swinv2ForImageClassification
 # Page setup
 st.set_page_config(page_title="Glaucoma Detector", layout="centered")
 st.title("👁️ Glaucoma Detection App")
-st.write("Upload a **fundus image** to check for signs of glaucoma using a pre-trained deep learning model.")
+st.write("Upload a **fundus image** to check for signs of glaucoma using a deep learning model.")
 
 # File uploader
 uploaded_file = st.file_uploader("Choose a fundus image...", type=["jpg", "jpeg", "png"])
