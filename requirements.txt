@@ -1,0 +1,5 @@
+streamlit
+torch
+transformers
+opencv-python
+Pillow
