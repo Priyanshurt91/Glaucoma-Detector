@@ -10,5 +10,4 @@ pinned: false
 license: mit
 short_description: Glaucoma Detection from Fundus Images
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Deploy link: https://huggingface.co/spaces/PriyanshuRaut96/Glaucoma-Detector
